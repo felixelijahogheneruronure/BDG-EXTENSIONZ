@@ -1,0 +1,21 @@
+[
+    { "name": "Bless", "url": "chrome-extension://pljbjcehnhcnofmkdbjolghdcjnmekia/index.html" },
+    { "name": "NodePay", "url": "chrome-extension://lgmpfmgeabnnlemejacfljbmonaomfmm/index.html" },
+    { "name": "AirdropMaster", "url": "chrome-extension://jbmdcnidiaknboflpljihfnbonjgegah/index.html" },
+    { "name": "CryptoSign", "url": "chrome-extension://obfhoiefijlolgdmphcekifedagnkfjp/js/popup.html" },
+    { "name": "Trading Bot", "url": "chrome-extension://fpdkjdnhkakefebpekbdhillbhonfjjp/pages/signin.html" },
+    { "name": "Dashboard", "url": "chrome-extension://ofpfdpleloialedjbfpocglfggbdpiem/popup.html#/dashboard" },
+    { "name": "Wallet Connect", "url": "chrome-extension://cpjicfogbgognnifjgmenmaldnmeeeib/index.html" },
+    { "name": "Market Watch", "url": "chrome-extension://caacbgbklghmpodbdafajbgdnegacfmo/popup.html" },
+    { "name": "Gas Fee Checker", "url": "chrome-extension://ilehaonighjijnmpnagapkhpcdbhclfg/index.html" },
+    { "name": "Signal Tracker", "url": "chrome-extension://eacpdnipdgdgpbkbehaggdoapciommff/popup/index.html#/home" },
+    { "name": "Forex Helper", "url": "chrome-extension://lobckpihghfknleknppdjnnncpcfpcgh/index.html" },
+    { "name": "Auto Trader", "url": "chrome-extension://fgamijdhamopilihagheoalbifagafka/popup.html" },
+    { "name": "Airdrop Miner", "url": "chrome-extension://hajiimgolngmlbglaoheacnejbnnmoco/index.html" },
+    { "name": "Web3 Auth", "url": "chrome-extension://effapmdildnpkiaeghlkicpfflpiambm/dist/popup/index.html" },
+    { "name": "AI Trading", "url": "chrome-extension://bnkekngmddejlfdeefjilpfdhomeomgb/index.html" },
+    { "name": "Bot Manager", "url": "chrome-extension://knnliglhgkmlblppdejchidfihjnockl/src/popup.html" },
+    { "name": "Token Sniper", "url": "chrome-extension://icbbdjflabjciapbohkkkmaangfjaanl/src/popup.html" },
+    { "name": "Quick Swap", "url": "chrome-extension://jlpniknnodfkbmbgkjelcailjljlecch/popup.html" },
+    { "name": "Mining Hub", "url": "chrome-extension://ahidmapichficbkfglbhgmhjcojjmlnm/popup.html#/mining" }
+]
